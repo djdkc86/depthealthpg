@@ -1,0 +1,1 @@
+web: gunicorn depthealthpg.wsgi --log-file -
